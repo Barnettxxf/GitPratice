@@ -12,6 +12,7 @@ logging.basicConfig(
 )
 
 logging.info('hello %s', 'my friend')
+logging.info('branch')
 
 
 def run():
