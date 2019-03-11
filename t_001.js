@@ -8,10 +8,6 @@ function outer() {
 
 }
 
-inner = outer();
-inner.forEach(function (e, i, a) {
-    e();
-});
 
 function outer_one() {
     var result = [];
