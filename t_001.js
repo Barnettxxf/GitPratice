@@ -5,7 +5,7 @@ function outer() {
             console.log(i)
         }
     }
-    return result;
+
 }
 
 inner = outer();
