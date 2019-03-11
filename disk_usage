@@ -1,0 +1,12 @@
+Filesystem     Type      Inodes  IUsed   IFree IUse% Mounted on
+udev           devtmpfs  638285    432  637853    1% /dev
+tmpfs          tmpfs     645091    724  644367    1% /run
+/dev/sda1      ext4     5242880 340637 4902243    7% /
+tmpfs          tmpfs     645091    132  644959    1% /dev/shm
+tmpfs          tmpfs     645091      6  645085    1% /run/lock
+tmpfs          tmpfs     645091     18  645073    1% /sys/fs/cgroup
+tmpfs          tmpfs     645091     20  645071    1% /run/user/121
+tmpfs          tmpfs     645091     95  644996    1% /run/user/1000
+/dev/sr0       iso9660        0      0       0     - /media/barnett/VBox_GAs_5.2.12
+Temp           vboxsf      1000      0    1000    0% /mnt/win/Temp
+Legion         vboxsf      1000      0    1000    0% /mnt/win/Legion
