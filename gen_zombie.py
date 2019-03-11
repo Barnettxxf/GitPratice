@@ -3,6 +3,8 @@ import logging
 import os
 import time
 
+print(os.getcwd())
+
 logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)-15s - %(levelname)s -%(message)s'
