@@ -11,6 +11,8 @@ logging.basicConfig(
     format='%(asctime)-15s - %(levelname)s -%(message)s'
 )
 
+logging.info('hello %s', 'my friend')
+
 
 def run():
     exitcode = 3
