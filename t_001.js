@@ -22,15 +22,13 @@ function outer_one() {
             }
         }(i)
     }
-    return result
+
 }
 
 console.log('========================');
 
 inner_one = outer_one();
-inner_one.forEach(function (e, i, a) {
-    e()
-});
+
 
 
 function outer_two() {
